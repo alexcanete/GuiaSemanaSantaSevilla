@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hermandades Semana Santa Sevilla</string>
+
+
+    <string-array name="Hermandades">
+        <item>San Esteban</item>
+        <item>El Cerro</item>
+        <item>La Candelaria</item>
+        <item>San Benito</item>
+        <item>Dulce Nombre</item>
+        <item>Los Javieres</item>
+        <item>Los Estudiantes</item>
+        <item>Santa Cruz</item>
+
+
+
+
+
+    </string-array>
+</resources>
