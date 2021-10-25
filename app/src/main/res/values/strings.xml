@@ -13,8 +13,16 @@
         <item>Santa Cruz</item>
 
 
-
-
-
     </string-array>
+
+
+    <string name="foElCerro">ElCerro</string>
+    <string name="foElDulceNombre">ElDulceNombre</string>
+    <string name="foLaCandelaria">LaCandelaria</string>
+    <string name="foLosEstudiantes">LosEstudiantes</string>
+    <string name="foLosJavieres">LosJavieres</string>
+    <string name="foSanBenito">SanBenito</string>
+    <string name="foSantaCruz">SantaCruz</string>
+
+
 </resources>

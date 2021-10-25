@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HermandadesSemanaSantaSevilla">
         <activity
+            android:name=".activity_el_dulce_nombre"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
